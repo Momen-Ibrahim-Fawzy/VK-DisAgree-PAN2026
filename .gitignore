@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# Model weights (too large for git; download or train locally)
+models/
+*.pkl
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Data (PAN data is not publicly redistributable)
+data/*.jsonl
+extra_data/ai_texts/
+extra_data/cleaned/
+extra_data/obfuscations/
+extra_data/human_texts/
+extra_data/merged/
+
+# Training artefacts
+training_log.json
+out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
