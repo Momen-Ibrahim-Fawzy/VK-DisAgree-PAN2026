@@ -1,6 +1,6 @@
 # VK-Detect: Disagreement-Aware Ensemble for AI Text Detection
 
-Source code for the **Momen Ibrahim** submission to [PAN 2026 Voight-Kampff Generative AI Detection](https://pan.webis.de/clef26/pan26-web/generative-authorship-verification.html) task at CLEF 2026.
+Official implementation of the VK-DisAgree system submitted to [PAN 2026 Voight-Kampff Generative AI Detection](https://pan.webis.de/clef26/pan26-web/generative-authorship-verification.html) task at CLEF 2026.
 
 Paper: *"When Detectors Disagree --- Disagreement-Aware Ensemble for Robust AI Text Detection"*
 
