@@ -1,4 +1,4 @@
-# VK-Detect: Disagreement-Aware Ensemble for AI Text Detection
+# VK-DisAgree: Disagreement-Aware Ensemble for Robust AI Text Detection
 
 Official implementation of the VK-DisAgree system submitted to [PAN 2026 Voight-Kampff Generative AI Detection](https://pan.webis.de/clef26/pan26-web/generated-content-analysis.html) task at CLEF 2026.
 
