@@ -2,7 +2,9 @@
 
 Official implementation of the VK-DisAgree system submitted to [PAN 2026 Voight-Kampff Generative AI Detection](https://pan.webis.de/clef26/pan26-web/generated-content-analysis.html) task at CLEF 2026.
 
-Paper: *"When Detectors Disagree --- Disagreement-Aware Ensemble for Robust AI Text Detection"*
+> **Paper:** *When Detectors Disagree --- Disagreement-Aware Ensemble for Robust AI Text Detection*
+> Momen Ibrahim — Alexandria University
+> CLEF 2026 Working Notes *(link will be added upon publication)*
 
 ## System Overview
 
