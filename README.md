@@ -1,5 +1,7 @@
 # Team aimoment at PAN2026: Disagreement-Aware Ensemble for Robust AI Text Detection
 
+<img src="aimoment.png" alt="Team aimoment logo" width="200"/>
+
 Official implementation of the VK-DisAgree system submitted to [PAN 2026 Voight-Kampff Generative AI Detection](https://pan.webis.de/clef26/pan26-web/generated-content-analysis.html) task at CLEF 2026.
 
 > **Paper:** *Team aimoment at PAN2026: Disagreement-Aware Ensemble for Robust AI Text Detection*
@@ -169,9 +171,8 @@ All hyperparameters are in [`src/config.py`](src/config.py):
 
 ```bibtex
 @inproceedings{ibrahim:2026,
-  author    = {Momen Ibrahim},
-  title     = {When Detectors Disagree ---
-               Disagreement-Aware Ensemble for Robust AI Text Detection},
+  author    = {Momen Ibrahim, Nagwa El-Makky and Marwan Torki},
+  title     = {Team aimoment at PAN2026: Disagreement-Aware Ensemble for Robust AI Text Detection},
   booktitle = {CLEF 2026 Working Notes},
   year      = {2026},
   publisher = {CEUR-WS.org},
